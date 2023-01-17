@@ -1,0 +1,23 @@
+.buttonContainer {
+    float: left;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.headerStyle {
+    text-align: center;
+    margin-top: 30px;
+    color: #3a5aba;
+}
+
+.paperContainer {
+    margin-bottom: 20px;
+}
+
+.action_btn {
+    display: inline-block;
+    width: calc(40% - 40px);
+    margin-left: 10;
+    margin-right: 10;
+}

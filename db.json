@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": "3b859869-36d4-4aef-a83c-09dc774b5230",
+      "name": "Zack Mayers",
+      "org": "ABC Ads",
+      "manager": "zackolenski",
+      "email": "zac@abc.com",
+      "phone": "4498176179"
+    },
+    {
+      "id": "3b859869-36d4-78eg-a83c-09dc774b5230",
+      "name": "Ralph Charlie",
+      "org": "ABC Springpath",
+      "manager": "ralphcharlie",
+      "email": "ralph@abc.com",
+      "phone": "8187183901"
+    },
+    {
+      "id": "88271678-36d4-4aef-a83c-09dc774b5230",
+      "name": "Naren Karthik",
+      "org": "ABC Data Center!23",
+      "manager": "iamnaren",
+      "email": "narenkarthik@cisco.com",
+      "phone": "8907626178"
+    },
+    {
+      "name": "New Employee",
+      "manager": "Manager in the Grid",
+      "org": "ajjaja",
+      "email": "ahjaj@abc.com",
+      "phone": "6171818919",
+      "id": "biAm4Es"
+    },
+    {
+      "name": "Cathey",
+      "manager": "Maya Owens",
+      "org": "AIC",
+      "email": "cathey@aic.com",
+      "phone": "71891001971",
+      "id": "oSTk5UD"
+    }
+  ]
+}
