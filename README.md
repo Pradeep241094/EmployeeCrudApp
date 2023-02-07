@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### npm install
+### npm install --legacy-peer-deps (as there are few Conflictig Peer Dependencies)
 
 This installs all the dependencies in the Project (Make sure you have all the dependencies installled)
 
